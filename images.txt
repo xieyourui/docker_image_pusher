@@ -1,10 +1,9 @@
-nacos/nacos-server
-bladex/sentinel-dashboard
-elasticsearch:8.5.0
-kibana:8.5.0
-logstash:8.5.0
-openzipkin/zipkin
-mongo:4.2.5
+eclipse-temurin:17
+eclipse-temurin:21
+eclipse-temurin:8
+php
+golang
+python
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
