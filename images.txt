@@ -1,5 +1,4 @@
-oracle
-
+jenkins/jenkins
 
 
 #支持私库
