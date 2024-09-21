@@ -1,4 +1,4 @@
-jenkins/jenkins
+php:8.3-fpm
 
 
 #支持私库
