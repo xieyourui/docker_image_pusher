@@ -1,5 +1,6 @@
-php:8.3-fpm
+mysql:8.0.36
 
+#php:8.3-fpm
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
