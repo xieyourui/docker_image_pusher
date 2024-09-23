@@ -1,5 +1,5 @@
-mysql:5.7.36
-php:7.4-fpm
+openjdk
+
 
 # alpine
 
@@ -31,7 +31,9 @@ php:7.4-fpm
 # linux_arm64_xiaoyaliu_alist
 
 # mysql
+# mysql:5.7.36
 # mysql:8.0.36
+# mysql:8.0.39
 # mariadb
 # maven
 # mongo
@@ -43,8 +45,9 @@ php:7.4-fpm
 # node
 # neo4j
 
-# php:8.3-fpm
 # php
+# php:7.4-fpm
+# php:8.3-fpm
 # python
 # postgres
 
