@@ -1,6 +1,70 @@
-mysql:8.0.36
+mysql:5.7.36
+php:7.4-fpm
 
-#php:8.3-fpm
+# alpine
+
+# busybox
+
+# centos
+# composer
+
+# debian
+# docker
+
+# eclipse-temurin
+# elasticsearch
+
+# golang
+# gradle
+
+# helloword
+# hyperf
+# httpd
+
+# jetty
+# jenkins
+
+# kibana
+# kube-state-metrics
+
+# logstash
+# linux_arm64_xiaoyaliu_alist
+
+# mysql
+# mysql:8.0.36
+# mariadb
+# maven
+# mongo
+# minio
+# memcached
+
+# nginx
+# nacos-server
+# node
+# neo4j
+
+# php:8.3-fpm
+# php
+# python
+# postgres
+
+# redis
+# rabbitmq
+
+# sentinel-dashboard
+# swoole
+
+# tomcat
+# traefik
+
+# ubuntu
+
+# wordpress
+
+# xhofe_alist
+
+# zipkin
+# zookeeper
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
